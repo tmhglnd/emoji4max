@@ -1,0 +1,57 @@
+max objectfile 🔋 transport;
+max objectfile 🚇 metro;
+max objectfile 🚠 metro qmetro;
+max objectfile 🎡 counter;
+max objectfile ⏱ timer;
+max objectfile ⏳ pipe;
+max objectfile ⌛️ delay;
+max objectfile 🚫 speedlim;
+
+max objectfile 🔎 select;
+max objectfile 🍺 drunk;
+max objectfile 🏺 urn-jb;
+
+max objectfile 🎵 makenote;
+max objectfile 🚽 flush;
+max objectfile 🔄 swap;
+
+max objectfile ⏮ append;
+max objectfile ⏭ prepend;
+max objectfile 📦 join;
+max objectfile 🗃 unjoin;
+max objectfile 🗑 bucket;
+max objectfile 👫 buddy;
+max objectfile ✂️ iter;
+max objectfile 🛒 zl;
+max objectfile 📋 coll;
+max objectfile 🔫 uzi;
+max objectfile 🎟 onebang;
+
+max objectfile 🌍 universal;
+max objectfile 💥 loadmess;
+
+max objectfile 🗓 date;
+max objectfile ⛰ peak;
+max objectfile 🛤 trough;
+max objectfile ⚖️ split;
+max objectfile 🎰 prob;
+max objectfile 📊 anal;
+
+max objectfile 📡 udpsend;
+max objectfile 🛰 udpreceive;
+max objectfile 📟 serial;
+max objectfile 🕹 hi;
+max objectfile 🐭 mousestate;
+
+max objectfile 🎲 _eRandom;
+max objectfile 🚦 _eGate;
+max objectfile 🖨 _ePrint;
+max objectfile 🎹 _eNotein;
+max objectfile 🎛 _eCtlin;
+max objectfile ⌨️ _eKey;
+max objectfile 💰 _eBag;
+max objectfile 🎼 _eNoteout;
+max objectfile 🎧 _ePgmout;
+max objectfile 🎭 _eChange;
+max objectfile ⏰ _eClocker;
+max objectfile 🚥 _eSwitch;

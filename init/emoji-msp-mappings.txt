@@ -1,0 +1,50 @@
+max objectfile 🚲 cycle~;
+max objectfile 🏭 saw~;
+max objectfile 🏦 tri~;
+max objectfile 🏢 rect~;
+max objectfile 🌪 noise~;
+max objectfile 🌊 pink~;
+max objectfile 🚿 sig~;
+
+max objectfile 🛎 click~;
+max objectfile 🚂 train~;
+max objectfile 💈 phasor~;
+max objectfile 🎚 rate~;
+
+max objectfile 📻 play~;
+max objectfile 💃 groove~;
+max objectfile 🕺 groove~;
+max objectfile 🏄‍♀️ wave~;
+max objectfile 🏄‍♂️ wave~;
+max objectfile 🔬 lookup~;
+max objectfile 🗂 index~;
+max objectfile 👉 poke~;
+max objectfile 👀 peek~;
+max objectfile 🛢 buffer~;
+max objectfile 🏗 count~;
+
+max objectfile 🎢 line~;
+max objectfile 🎻 adsr~;
+
+max objectfile 🎤 _eAdc~;
+max objectfile 🔈 _eDac~;
+max objectfile 📷 snapshot~;
+max objectfile 💿 record~;
+
+max objectfile 🔥 overdrive~;
+max objectfile 🤖 degrade~;
+max objectfile 🏓 pong~;
+max objectfile 😬 teeth~;
+max objectfile 🗜 clip~;
+max objectfile 📐 scale~;
+
+max objectfile 🛁 _eTapin~;
+max objectfile 🚰 _eTapout~;
+max objectfile 🕳 gate~;
+max objectfile 🐋 onepole~;
+max objectfile 🐦 reson~;
+max objectfile 🌈 svf~;
+max objectfile 💪 biquad~;
+max objectfile 🛷 slide~;
+
+max objectfile 🏛 yafr2;

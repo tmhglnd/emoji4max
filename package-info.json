@@ -1,0 +1,21 @@
+{
+	"author" : "Timo",
+	"description" : "Probably the least useful package for Max8, but lots of fun.",
+	"homepatcher" : "emoji4max.maxpat",
+	"max_version_min" : "8.0",
+	"max_version_max" : "none",
+	"name" : "emoji4max 🎲 🎹 💻",
+	"os" : {
+		"macintosh" : {
+			"min_version" : "10.11.x",
+			"platform" : [ "x64", "aarch64" ]
+		},
+		"windows" : {
+			"min_version" : "none",
+			"platform" : [ "x64" ]
+		}
+	},
+	"tags" : [ ],
+	"version" : "1",
+	"website" : "http://www.github.com/tmhglnd/emoji4max"
+}
